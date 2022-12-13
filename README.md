@@ -1,5 +1,5 @@
 ## Docker and Kubernetes Deep Dive
-- I have did my best to capture all the example to create kubernetes objects, docker and helm charts development.
+- I did my best to capture all the example to create kubernetes objects, docker and helm charts development.
 - Topic wise folder
   - DockerEngine
   - Kubernetes
